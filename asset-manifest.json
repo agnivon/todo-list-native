@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/static/js/app.4d6fc64e.chunk.js",
-    "app.js.map": "/static/js/app.4d6fc64e.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.27401809.js",
-    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.2766d3eb.chunk.js": "/static/js/2.2766d3eb.chunk.js",
-    "static/js/2.2766d3eb.chunk.js.map": "/static/js/2.2766d3eb.chunk.js.map",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.2766d3eb.chunk.js.LICENSE.txt": "/static/js/2.2766d3eb.chunk.js.LICENSE.txt"
+    "app.js": "/todo-list-native/static/js/app.4d6fc64e.chunk.js",
+    "app.js.map": "/todo-list-native/static/js/app.4d6fc64e.chunk.js.map",
+    "runtime~app.js": "/todo-list-native/static/js/runtime~app.c243ee46.js",
+    "runtime~app.js.map": "/todo-list-native/static/js/runtime~app.c243ee46.js.map",
+    "static/js/2.2766d3eb.chunk.js": "/todo-list-native/static/js/2.2766d3eb.chunk.js",
+    "static/js/2.2766d3eb.chunk.js.map": "/todo-list-native/static/js/2.2766d3eb.chunk.js.map",
+    "index.html": "/todo-list-native/index.html",
+    "manifest.json": "/todo-list-native/manifest.json",
+    "serve.json": "/todo-list-native/serve.json",
+    "static/js/2.2766d3eb.chunk.js.LICENSE.txt": "/todo-list-native/static/js/2.2766d3eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.27401809.js",
+    "static/js/runtime~app.c243ee46.js",
     "static/js/2.2766d3eb.chunk.js",
     "static/js/app.4d6fc64e.chunk.js"
   ]
