@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "todo-list-native",
+  "short_name": "todo-list-native",
+  "start_url": "/?utm_source=web_app_manifest"
+}
